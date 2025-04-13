@@ -1,1 +1,2 @@
-
+The income prediction and attrition prediction model was trained on dataset - HR_Analytics.csv
+The job satisfaction prediction model was trained on dataset - HR_comma_sep.csv
