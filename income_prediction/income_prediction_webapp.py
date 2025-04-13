@@ -6,7 +6,7 @@ from streamlit_extras.colored_header import colored_header
 import sklearn
 
 # Load the trained model
-loaded_model = pickle.load(open("C:/FP/income_pred/trained_model.sav", 'rb'))
+loaded_model = pickle.load(open("your-path-to-trained_model.sav", 'rb'))
 
 # Fixed prediction function with realistic scaling and confidence
 def income_prediction(input_data):
