@@ -71,10 +71,6 @@ You can now use the apps through the website!
 
 ---
 
-## 📄 License
-
-This project is under the **MIT License**.
-
 ## ⚠️ Disclaimer
 
 Please note that the predictions made by this portal may not always be accurate. The results depend heavily on the quality and structure of the dataset used for training the models. Real-world employee behavior can be influenced by many other factors not included in this dataset.
