@@ -73,7 +73,7 @@ You can now use the apps through the website!
 
 ## 📄 License
 
-This project is under the **MIT License**. You can use, change, and share it with credit.
+This project is under the **MIT License**.
 
 ## ⚠️ Disclaimer
 
