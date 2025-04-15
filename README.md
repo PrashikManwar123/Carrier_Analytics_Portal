@@ -2,13 +2,13 @@
 
 A simple and useful tool that uses machine learning to understand employees' better. It predicts **income**, **attrition (whether someone might leave the company)**, and **job satisfaction**, and gives helpful suggestions for improvement.
 
-## 🌟 Purpose
+##  Purpose
 
 This project helps HR teams use employee data to make smart decisions. It gives insights into employee behavior and helps improve retention, satisfaction, and salary planning.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Predict if an employee might leave the company (Attrition)
 - ✅ Predict an employee's monthly income
@@ -17,7 +17,7 @@ This project helps HR teams use employee data to make smart decisions. It gives 
 
 ---
 
-## 🧰 Tools and Libraries Used
+##  Tools and Libraries Used
 
 - **Languages/Frameworks**: Python, Streamlit
 - **Libraries**: `numpy`, `pandas`, `scikit-learn`, `CatBoostRegressor`, `RandomForestRegressor`, `plotly`, `pickle`, `warnings`
@@ -26,7 +26,7 @@ This project helps HR teams use employee data to make smart decisions. It gives 
 
 ---
 
-## 📊 ML Models and Their Results
+##  ML Models and Their Results
 
 - **Income Prediction**: `CatBoostRegressor`
   - R² Score: **0.89** (very good)
@@ -37,7 +37,7 @@ This project helps HR teams use employee data to make smart decisions. It gives 
 
 ---
 
-## 🔧 How to Use the Project
+##  How to Use the Project
 
 1. Download all files and place them in a single folder.
 2. Open each `.py` file and update the path to the correct `.sav` model file.
@@ -50,7 +50,7 @@ You can now use the apps through the website!
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 1. **Live Data**: Connect with real-time HR systems to get updated employee data.
 2. **Login System**: Add login for different users like HR, managers, and employees.
@@ -65,7 +65,7 @@ You can now use the apps through the website!
 
 ---
 
-## 👥 Contributers:
+##  Contributers:
 
 - **Prashik Manwar**
 
