@@ -1,6 +1,6 @@
 # Career Analytics Portal
 
-A simple and useful tool that uses machine learning to understand employees better. It predicts **income**, **attrition (whether someone might leave the company)**, and **job satisfaction**, and gives helpful suggestions for improvement.
+A simple and useful tool that uses machine learning to understand employees' better. It predicts **income**, **attrition (whether someone might leave the company)**, and **job satisfaction**, and gives helpful suggestions for improvement.
 
 ## 🌟 Purpose
 
